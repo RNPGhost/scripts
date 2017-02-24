@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# config
-DEVICE_NAME=Master
-
 # defaults
 VOLUME_DECREASE=5
 

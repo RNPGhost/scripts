@@ -6,7 +6,7 @@ if [ "$1" == "" ]; then
 fi
 
 # config
-DEVICE_NAME=Master
+DEVICE_NAME=PCM
 
 # defaults
 DIRECTION=

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # config
-DEVICE_NAME=Master
+DEVICE_NAME=PCM
 
 # defaults
 ROUND_SIZE=1
